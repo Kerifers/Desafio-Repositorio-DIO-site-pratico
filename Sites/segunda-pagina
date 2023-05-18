@@ -1,0 +1,10 @@
+<html>
+    <Head>
+        <title>
+        segunda pagina pra teste
+        </title>
+    </Head>
+        <Body>
+            <h2>você chegou poe essas palavras<a href="index.html" target="_self"><small>~voltar~</small></a></h2>
+        </Body>
+</html>
